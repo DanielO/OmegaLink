@@ -1,0 +1,10 @@
+;++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+; ProductName = OmegaLink
+; DESCRIPTION = Registers a protocol handler to allow Xapian Omega to open
+;	      = files in Windows Explorer.
+; Licence     = LICENSE
+; Installed   = WINDOWS_ALL
+; MsiName     = OmegaLink
+VERSION	: 1.0.0
+DATE	: 1 June 2018
+CHANGES	: Initial release
