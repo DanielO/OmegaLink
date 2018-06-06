@@ -1,5 +1,5 @@
 ;----------------------------------------------------------------------------
-#define? DEPT_NAME                       Daniel OConnor
+#define? DEPT_NAME                       Daniel O'Connor
 #define? DEPT_ADDRESS                    Australia
 #define? COMPANY_CONTACT_NAME            <$DEPT_NAME>
 #define? COMPANY_PRODUCT_ICON		 OmegaLink.ico
