@@ -14,6 +14,10 @@ omegalink://host/path
 
 OmegaLink.nsi can be used to create an exe installer (download from http://nsis.sourceforge.net/Download). It will prompt you for a prefix and set the registry keys as needed.
 
+### Installer
+Install MakeMSI then run
+"c:\program files (x86)\makemsi\mm.cmd" OmegaLink.mm
+
 ### ToDo
 Write a better installer
 
