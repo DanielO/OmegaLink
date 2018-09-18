@@ -36,6 +36,18 @@
     <$Registry
                HKEY="CLASSES_ROOT"
                 KEY="omegalink"
+               NAME="EditFlags"
+              VALUE="&H00210000"
+	       TYPE="DWORD"
+             KEYPATH="Y"
+           Component="REGIMPORT_CLASSES_ROOT"
+    >
+#)
+
+#(
+    <$Registry
+               HKEY="CLASSES_ROOT"
+                KEY="omegalink"
                NAME="prefix"
               VALUE="[PREFIX]"
              KEYPATH="Y"
